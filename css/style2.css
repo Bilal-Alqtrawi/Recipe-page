@@ -1,0 +1,39 @@
+@media (max-width:767px) {
+    .page {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .page .container {
+        padding: 0 0 25px ;
+    }
+    .page img {
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+    }
+    .intro ,
+    .preparation ,
+    .ingred,
+    .instruc,
+    .nutrition{
+        padding-left: 25px ;
+        padding-right: 25px;
+    }
+    .intro h1 {
+        font-weight: bold;
+    }
+    .intro p {
+        font-size: 17px;
+    }
+    .preparation {
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    hr {
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    
+}
